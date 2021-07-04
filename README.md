@@ -6,8 +6,6 @@
 
 ## Wakatime Week Stats ##
 
-[comment]: <> ([![willianrod's wakatime stats]&#40;https://github-readme-stats.vercel.app/api/wakatime?username=krovorgen&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krovorgen&repo=SocialNetwork-React)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krovorgen&repo=TodoList-React)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krovorgen&repo=react-kabzda)](https://github.com/anuraghazra/github-readme-stats)
