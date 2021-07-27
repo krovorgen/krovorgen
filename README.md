@@ -1,3 +1,6 @@
+## Codewars
+![alt rank](https://www.codewars.com/users/krovorgen/badges/large) 
+
 ## GitHub Stats Card: ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krovorgen&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Fuza322/github-readme-stats)
 
